@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 Junjie here. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baldFemale)](https://github.com/anuraghazra/github-readme-stats)
+
 - I'm a PhD student in NUS
 - I'm doing studies in open innovation, startup pivot, organization learning, performance feedback with computational models. 
 - Reach me at zjj@u.nus.edu 
