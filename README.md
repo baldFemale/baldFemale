@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Junjie here. 
+- I'm a PhD student in NUS
+- I'm doing studies in open innovation, startup pivot, organization learning, performance feedback with computational models. 
+- Reach me at zjj@u.nus.edu 
